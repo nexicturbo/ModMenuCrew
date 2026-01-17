@@ -1,6 +1,6 @@
-# ModMenuCrew - Among Us Mod Menu
+# ModMenuCrew Unlocked - Among Us Mod Menu
 
-A mod menu for Among Us with cheats and utilities. No license key required.
+A mod menu for Among Us with cheats and utilities. **No license key required** - all features unlocked.
 
 ## Features
 
